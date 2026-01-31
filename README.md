@@ -1,0 +1,2 @@
+# LosujLiczbe
+LosujLiczbe projekt 
